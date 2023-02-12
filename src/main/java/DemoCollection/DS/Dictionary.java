@@ -13,8 +13,8 @@ public class Dictionary <K ,V >{
     public boolean delete(K k){
         return true;
     }
-    public V translate(K k){
+ /*   public V translate(K k){
         return
-    }
+    }*/
 
 }
